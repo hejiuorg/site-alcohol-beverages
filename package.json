@@ -1,0 +1,10 @@
+{
+  "name": "site-alcohol-beverages",
+  "version": "0.1.0",
+  "private": true,
+  "description": "喝酒去 beverages.hejiu.org 酒类百科",
+  "scripts": {
+    "dev": "npm run dev -w @hejiu/site-beverages",
+    "build": "npm run build -w @hejiu/site-beverages"
+  }
+}
