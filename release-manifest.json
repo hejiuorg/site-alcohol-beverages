@@ -2,11 +2,11 @@
   "manifestSchemaVersion": 1,
   "siteKey": "beverages",
   "siteRepository": "site-alcohol-beverages",
-  "siteCommit": "b3a9b32b8c0ab6acb7ed0f22c31cf546a277dd99",
+  "siteCommit": "0705cf6259872956e6c955290f5d1d26d3a0ceaf",
   "host": "beverages.hejiu.org",
   "siteUrl": "https://beverages.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-25T04:22:06.481Z",
+  "generatedAt": "2026-11-25T06:42:51.447Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -36849,7 +36849,7 @@
     "aggregateSource": ".hejiu/published/beverages.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "69c28f3ccf72dd55823c6297a7d142c1cd2a5089558296f1ce42baf56843113d",
+  "distTreeSha256ExcludingManifest": "30df19611940331dce6a0a3d78587b6b28363af41c527ca15fa81884986f7e09",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
