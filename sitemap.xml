@@ -639,6 +639,7 @@
   <url><loc>https://beverages.hejiu.org/en/regions/germany/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/graves/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/guizhou/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/gulin/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/haut-medoc/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/hawkes-bay/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/hebei/</loc></url>
@@ -677,6 +678,7 @@
   <url><loc>https://beverages.hejiu.org/en/regions/martinique/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/mclaren-vale/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/mendoza/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/mianzhu/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/montalcino/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/mosel/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/napa-valley/</loc></url>
@@ -749,6 +751,7 @@
   <url><loc>https://beverages.hejiu.org/en/regions/walker-bay/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/willamette-valley/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/xinjiang/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/xishui/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yamanashi/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yarra-valley/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yibin/</loc></url>
@@ -1181,6 +1184,7 @@
   <url><loc>https://beverages.hejiu.org/regions/germany/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/graves/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/guizhou/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/gulin/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/haut-medoc/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/hawkes-bay/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/hebei/</loc></url>
@@ -1219,6 +1223,7 @@
   <url><loc>https://beverages.hejiu.org/regions/martinique/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/mclaren-vale/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/mendoza/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/mianzhu/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/montalcino/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/mosel/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/napa-valley/</loc></url>
@@ -1291,6 +1296,7 @@
   <url><loc>https://beverages.hejiu.org/regions/walker-bay/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/willamette-valley/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/xinjiang/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/xishui/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yamanashi/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yarra-valley/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yibin/</loc></url>
