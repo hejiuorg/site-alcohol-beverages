@@ -630,6 +630,7 @@
   <url><loc>https://beverages.hejiu.org/en/regions/cote-rotie/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/czechia/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/douro/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/fenyang/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/finger-lakes/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/france/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/franschhoek/</loc></url>
@@ -665,6 +666,7 @@
   <url><loc>https://beverages.hejiu.org/en/regions/kyoto/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/loire/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/lowland/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/luzhou/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/macon/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/madeira/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/maipo/</loc></url>
@@ -749,8 +751,10 @@
   <url><loc>https://beverages.hejiu.org/en/regions/xinjiang/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yamanashi/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yarra-valley/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/yibin/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/yunnan/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/regions/zhejiang/</loc></url>
+  <url><loc>https://beverages.hejiu.org/en/regions/zunyi/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/standards/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/standards/bordeaux-aoc/</loc></url>
   <url><loc>https://beverages.hejiu.org/en/standards/burgundy-aoc/</loc></url>
@@ -1168,6 +1172,7 @@
   <url><loc>https://beverages.hejiu.org/regions/cote-rotie/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/czechia/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/douro/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/fenyang/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/finger-lakes/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/france/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/franschhoek/</loc></url>
@@ -1203,6 +1208,7 @@
   <url><loc>https://beverages.hejiu.org/regions/kyoto/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/loire/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/lowland/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/luzhou/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/macon/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/madeira/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/maipo/</loc></url>
@@ -1287,8 +1293,10 @@
   <url><loc>https://beverages.hejiu.org/regions/xinjiang/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yamanashi/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yarra-valley/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/yibin/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/yunnan/</loc></url>
   <url><loc>https://beverages.hejiu.org/regions/zhejiang/</loc></url>
+  <url><loc>https://beverages.hejiu.org/regions/zunyi/</loc></url>
   <url><loc>https://beverages.hejiu.org/standards/</loc></url>
   <url><loc>https://beverages.hejiu.org/standards/bordeaux-aoc/</loc></url>
   <url><loc>https://beverages.hejiu.org/standards/burgundy-aoc/</loc></url>
