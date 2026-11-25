@@ -3,5 +3,4 @@ Allow: /
 
 Disallow: /search/
 Disallow: /en/search/
-Disallow: /review/
-Sitemap: https://hejiu.org/sitemap.xml
+Sitemap: https://beverages.hejiu.org/sitemap.xml
