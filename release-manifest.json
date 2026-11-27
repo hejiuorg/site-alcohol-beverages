@@ -6,7 +6,7 @@
   "host": "beverages.hejiu.org",
   "siteUrl": "https://beverages.hejiu.org",
   "buildMode": "production",
-  "generatedAt": "2026-11-26T13:37:30.220Z",
+  "generatedAt": "2026-11-27T00:30:57.130Z",
   "coreVersion": "0.1.0",
   "contentSchemaVersion": 1,
   "contractHashes": {
@@ -38011,7 +38011,7 @@
     "aggregateSource": ".hejiu/published/beverages.json",
     "includesPreview": false
   },
-  "distTreeSha256ExcludingManifest": "0cd67db9fd60518ecc39e97b429228c81248215eb3e295e6ec33b0c4c484a6ae",
+  "distTreeSha256ExcludingManifest": "9578b6edaa482645436ad679ce0a5ed1f9a7dd05f9db58f409bd0b9563768c7a",
   "status": "local-build",
   "notes": [
     "No tokens or credentials are written into this manifest.",
